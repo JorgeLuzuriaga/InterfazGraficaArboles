@@ -1,3 +1,3 @@
 # InterfazGraficaArboles
-Integrantes: Jorge Luzuriaga
+Integrantes: Jorge Luzuriaga,
              Leonardo Espinoza
