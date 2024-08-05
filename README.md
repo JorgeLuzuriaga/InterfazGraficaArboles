@@ -9,6 +9,6 @@ Pasos para descargar los archivos del juego
 2) Una vez ubicado en el apartado de codigo, en la ultima opcion nos saldran Descargar Zip y damos click
 3) Despues de ello ya tendremos el archivo en formato .ZIP y tendremos que descomprimirlo
 4) Luego para abrir el juego, creamos un nuevo archivo en algun IDE que soporte lenguaje java y arrastar la carpeta a la seccion de trabajo.
-5) Finalmente se cargaran todos los archivos al espacio de trabajo y podemos ejecutarlo para arrancar el juego 
+5) Finalmente se cargaran todos los archivos al espacio de trabajo y podemos ejecutar el main para arrancar el juego 
 
 
